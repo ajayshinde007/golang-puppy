@@ -1,9 +1,9 @@
 package golang_puppy
 
 func Bark() string {
-	return "woof!"
+	return "woof v1!"
 }
 
 func Barks() string {
-	return "woof! woof! woof!"
+	return "woof! woof! woof! v1"
 }
