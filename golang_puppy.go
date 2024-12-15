@@ -3,11 +3,11 @@ package golang_puppy
 import "github.com/ajayshinde007/golang_dog"
 
 func Bark() string {
-	return "woof v1!"
+	return "woof v2!"
 }
 
 func Barks() string {
-	return "woof! woof! woof! v1"
+	return "woof! woof! woof! v2"
 }
 
 func BigBark() string {
